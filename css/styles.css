@@ -90,7 +90,18 @@ body
 }
 
 
+/* ADMIN */
 
+.admin
+{
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+}
+.help-inline
+{
+    color: red;
+}
 
 
 
